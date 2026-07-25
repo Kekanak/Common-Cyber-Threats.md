@@ -28,3 +28,11 @@ The 2020 Twitter Bitcoin scam – attackers called Twitter employees pretending 
 The 2019 "Collection #1" breach – hackers used a massive dump of 773 million stolen passwords to perform credential stuffing against millions of Spotify and Netflix accounts, hijacking them for resale.
 # DoS/DDoS: 
 The 2016 Mirai botnet attack on Dyn DNS – hacked IoT devices (cameras, routers) flooded Dyn with traffic, taking down major sites like Twitter, Netflix, and Reddit across the entire US East Coast.
+# Which cyber attack is most dangerous today and why? 
+phishing seems way more dangerous because it's the starter for most attacks like over 90% of them. It doesn't fight the tech; it just tricks people into clicking, which makes all those expensive firewalls and MFA useless. And now with AI writing those fake emails, they look so real. I guess ransomware is the big boom, but phishing is the tiny spark that gets everything going.
+# If you were an IT manager of a bank, which 3 security measures would you implement first to protect customers?  
+As an IT manager at a bank, I'd implement these three first:
+
+1. Phishing-resistant MFA (security keys/passkeys) – stops credential theft.
+2. Real-time transaction monitoring (AI fraud detection) – catches suspicious transfers instantly.
+3. Zero-trust network segmentation – limits the damage even if attackers get in. 
